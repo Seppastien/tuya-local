@@ -969,3 +969,4 @@ Further device support has been made with the assistance of users. Please consid
 - [rmschots](https://github.com/rmschots) for contributing Yu Prime support to Yu Home laundry rack.
 - [brickronny](https://github.com/brickronny) for contributing support for EZAIoT Lite socket thermostat.
 - [33doodles](https://github.com/33doodles) for contributing support for Starlight EF-STAR30 fireplace.
+- [Seppastien](https://github.com/Seppastien) for contributing support for Create Warm Crystal glass panel heater.

@@ -22,6 +22,7 @@
 - Cixi Jemell PTC-1919 PTC heater
 - Cleverio AR10/AR20 panel heaters
 - Create Warm Clear vertical heater
+- Create Warm Crystal glass panel heater
 - Create Warm Towel Advance bathroom heater
 - Cronos GPH-D-DA heater
 - Devola Intelligent and Patio heaters
